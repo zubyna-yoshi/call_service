@@ -1,0 +1,34 @@
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+server/var/
+
+# Apple
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Android / Gradle
+.gradle/
+local.properties
+**/build/
+
+# Local secrets and real employee data
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+*.csv
+*.xlsx
+*.xls
+data/*.csv
+!data/sample_employees.csv

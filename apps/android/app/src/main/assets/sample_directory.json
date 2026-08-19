@@ -1,0 +1,27 @@
+{
+  "version": "sample-1",
+  "generated_at": "2026-08-19T00:00:00Z",
+  "entries": [
+    {
+      "phone_number": "+82 10-1234-5678",
+      "label": "플랫폼개발팀 · 김민수",
+      "name": "김민수",
+      "organization": "플랫폼개발팀",
+      "number_type": "mobile"
+    },
+    {
+      "phone_number": "02-555-0101",
+      "label": "재무팀 · 이서연",
+      "name": "이서연",
+      "organization": "재무팀",
+      "number_type": "office"
+    },
+    {
+      "phone_number": "+82-2-555-0199",
+      "label": "인사팀 · 박지훈",
+      "name": "박지훈",
+      "organization": "인사팀",
+      "number_type": "office"
+    }
+  ]
+}

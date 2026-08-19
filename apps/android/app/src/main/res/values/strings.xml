@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">사내 발신자 확인</string>
+    <string name="caller_id_channel_name">사내 발신자 정보</string>
+    <string name="caller_id_channel_description">수신 전화와 일치하는 직원 정보를 표시합니다.</string>
+</resources>

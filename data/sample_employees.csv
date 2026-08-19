@@ -1,0 +1,4 @@
+employee_id,name,organization,office_phone,mobile_phone,active,mobile_visible
+E0001,가나다,플랫폼개발팀,02-555-0101,010-0000-0001,true,true
+E0002,라마바,플랫폼개발팀,02-555-0102,010-0000-0002,true,false
+E0003,사아자,정보보호팀,02-555-0201,,true,false

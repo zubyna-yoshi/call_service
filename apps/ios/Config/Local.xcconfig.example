@@ -1,0 +1,6 @@
+// Copy this file to Local.xcconfig and replace every placeholder with identifiers
+// registered in your Apple Developer account.
+APP_BUNDLE_IDENTIFIER = com.yourcompany.EmployeeCallerID
+CALL_DIRECTORY_EXTENSION_BUNDLE_IDENTIFIER = com.yourcompany.EmployeeCallerID.CallDirectory
+APP_GROUP_IDENTIFIER = group.com.yourcompany.EmployeeCallerID
+DEVELOPMENT_TEAM = YOUR_TEAM_ID

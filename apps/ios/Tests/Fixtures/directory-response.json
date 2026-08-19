@@ -1,0 +1,20 @@
+{
+  "version": 7,
+  "generated_at": "2030-01-01T00:00:00Z",
+  "entries": [
+    {
+      "phone_number": "+82211112222",
+      "label": "Team A · User A",
+      "name": "User A",
+      "organization": "Team A",
+      "number_type": "office"
+    },
+    {
+      "phone_number": "+821055555555",
+      "label": "Team B · User B",
+      "name": "User B",
+      "organization": "Team B",
+      "number_type": "mobile"
+    }
+  ]
+}
